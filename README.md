@@ -38,4 +38,8 @@ I completed the DP-900 Microsoft Azure Data Fundamentals assessment with a score
 
 The assessment reinforced my knowledge from the learning paths and helped me apply concepts in practical scenarios. Completing it demonstrates that I have a solid foundation in Azure data fundamentals and am prepared to continue building my skills in data analytics and cloud technologies.
 
+## Supporting Files
+
+- Screenshot of Practice Assessment for Exam DP-900: Microsoft Azure Data
+- Screenshots documenting my course completions and assessment
 
