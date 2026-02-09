@@ -26,7 +26,7 @@ This repository showcases my journey through the **Microsoft Azure Data Fundamen
 
 ## DP-900 Assessment
 
-I completed the DP-900 Microsoft Azure Data Fundamentals assessment with a score of 72%. This assessment tested my understanding of:
+I completed the DP-900 Microsoft Azure Data Fundamentals assessment with a score of 84%. This assessment tested my understanding of:
 
 - Core data concepts in Azure
 
